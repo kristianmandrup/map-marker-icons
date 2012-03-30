@@ -1,0 +1,25 @@
+.dark_blue.map-markers li {
+    background: url(assets/map-icons/dark_blue_map_markers.png) no-repeat top left;
+}
+
+.map-marker.sprite-darkblue00{ background-position: 0 0; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue01{ background-position: 0 -77px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue02{ background-position: 0 -154px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue03{ background-position: 0 -231px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue04{ background-position: 0 -308px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue05{ background-position: 0 -385px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue06{ background-position: 0 -462px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue07{ background-position: 0 -539px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue08{ background-position: 0 -616px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue09{ background-position: 0 -693px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue10{ background-position: 0 -770px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue11{ background-position: 0 -847px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue12{ background-position: 0 -924px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue13{ background-position: 0 -1001px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue14{ background-position: 0 -1078px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue15{ background-position: 0 -1155px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue16{ background-position: 0 -1232px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue17{ background-position: 0 -1309px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue18{ background-position: 0 -1386px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue19{ background-position: 0 -1463px; width: 27px; height: 27px; } 
+.map-marker.sprite-darkblue20{ background-position: 0 -1540px; width: 27px; height: 27px; } 

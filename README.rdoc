@@ -1,6 +1,41 @@
-= map-marker-icons
+= Map marker icons
 
-Description goes here.
+From http://code.google.com/p/google-maps-icons/
+
+CSS Sprites generated via http://spritegen.website-performance.org/
+
+Enjoy!
+
+Notes:
+
+Due to file size limitation of the spritegen service, I had to split up the icons into two separate sprite pics. 
+
+One option is to use _imagemagick_ or similar to stick the two images together or use some other service to generate the sprites.
+
+http://www.imagemagick.org/script/convert.php
+
+Another option would be to split it up into multiple icons based on icon category.
+
+The Numeric CSS sprites are not yet complete. Please help complete the remainding colors!
+
+== Install
+
+Setup in your application stylesheet manifest file, fx assets/stylesheets/application.css
+
+Here using all the basic marker icons and the green numeric markers
+
+/*
+ *= require map-marker-icons/icons
+ *= require map-marker-icons/icons2 
+ *= require map-marker-icons/color/green
+*/
+
+The gem includes some View helper methods also (example in HAML)
+
+= map_markers do
+	= map_marker_list :laboratory => 'Lab', :library => 'The Library'
+
+Note: The view helpers are primitive and could/should be improved!
 
 == Contributing to map-marker-icons
  

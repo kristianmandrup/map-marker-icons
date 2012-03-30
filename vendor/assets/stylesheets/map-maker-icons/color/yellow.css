@@ -1,0 +1,25 @@
+.yellow.map-markers li {
+    background: url(assets/map-icons/yellow_map_markers.png) no-repeat top left;
+}
+
+.map-marker.sprite-yellow00{ background-position: 0 0; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow01{ background-position: 0 -77px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow02{ background-position: 0 -154px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow03{ background-position: 0 -231px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow04{ background-position: 0 -308px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow05{ background-position: 0 -385px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow06{ background-position: 0 -462px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow07{ background-position: 0 -539px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow08{ background-position: 0 -616px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow09{ background-position: 0 -693px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow10{ background-position: 0 -770px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow11{ background-position: 0 -847px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow12{ background-position: 0 -924px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow13{ background-position: 0 -1001px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow14{ background-position: 0 -1078px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow15{ background-position: 0 -1155px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow16{ background-position: 0 -1232px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow17{ background-position: 0 -1309px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow18{ background-position: 0 -1386px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow19{ background-position: 0 -1463px; width: 27px; height: 27px; } 
+.map-marker.sprite-yellow20{ background-position: 0 -1540px; width: 27px; height: 27px; } 

@@ -1,0 +1,51 @@
+.blue.map-markers li {
+    background: url(assets/map-icons/blue_map_markers.png) no-repeat top left;
+}
+
+.map-marker.sprite-blue00{ background-position: 0 0; width: 27px; height: 27px; } 
+.map-marker.sprite-blue01{ background-position: 0 -77px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue02{ background-position: 0 -154px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue03{ background-position: 0 -231px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue04{ background-position: 0 -308px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue05{ background-position: 0 -385px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue06{ background-position: 0 -462px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue07{ background-position: 0 -539px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue08{ background-position: 0 -616px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue09{ background-position: 0 -693px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue10{ background-position: 0 -770px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue11{ background-position: 0 -847px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue12{ background-position: 0 -924px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue13{ background-position: 0 -1001px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue14{ background-position: 0 -1078px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue15{ background-position: 0 -1155px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue16{ background-position: 0 -1232px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue17{ background-position: 0 -1309px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue18{ background-position: 0 -1386px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue19{ background-position: 0 -1463px; width: 27px; height: 27px; } 
+.map-marker.sprite-blue20{ background-position: 0 -1540px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueA{ background-position: 0 -1617px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueB{ background-position: 0 -1694px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueC{ background-position: 0 -1771px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueD{ background-position: 0 -1848px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueE{ background-position: 0 -1925px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueF{ background-position: -77px 0; width: 27px; height: 27px; } 
+.map-marker.sprite-blueG{ background-position: -77px -77px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueH{ background-position: -77px -154px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueI{ background-position: -77px -231px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueJ{ background-position: -77px -308px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueK{ background-position: -77px -385px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueL{ background-position: -77px -462px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueM{ background-position: -77px -539px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueN{ background-position: -77px -616px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueO{ background-position: -77px -693px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueP{ background-position: -77px -770px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueQ{ background-position: -77px -847px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueR{ background-position: -77px -924px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueS{ background-position: -77px -1001px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueT{ background-position: -77px -1078px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueU{ background-position: -77px -1155px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueV{ background-position: -77px -1232px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueW{ background-position: -77px -1309px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueX{ background-position: -77px -1386px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueY{ background-position: -77px -1463px; width: 27px; height: 27px; } 
+.map-marker.sprite-blueZ{ background-position: -77px -1540px; width: 27px; height: 27px; } 
