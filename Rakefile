@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "map-marker-icons"
   gem.homepage = "http://github.com/kristianmandrup/map-marker-icons"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Map marker icons of various forms and colors}
+  gem.description = %Q{Put some nice markers on your Google maps}
   gem.email = "kmandrup@gmail.com"
   gem.authors = ["Kristian Mandrup"]
   # dependencies defined in Gemfile
